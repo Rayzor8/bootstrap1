@@ -1,0 +1,87 @@
+html {
+    position: relative;
+}
+
+body{
+    margin-bottom: 70px;
+    
+}
+
+
+
+
+
+.jumbotron img {
+    width: 10%;
+    
+    margin-top: 100px;
+    
+}
+
+.jumbotron {
+    padding: 5px;
+    background-image: url(img/sky.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    text-shadow: 1px 1px 1px black;
+}
+
+.jumbotron p {
+    font-style: italic;
+    font-size: 17px;
+}
+
+
+section {
+    min-height: 400px;
+    
+}
+
+ hr {
+    width: 250px;
+    border-top: 3px solid #999999;
+}
+
+.row p {
+    background-color:#e9ecef;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 15px;
+    text-align: justify;
+    text-indent: 30px;
+    
+    
+}
+
+.portfolio{
+    background-color:#e9ecef;
+    min-height: 500px;
+
+}
+
+.contact {
+    min-height: 800px;
+}
+
+
+ footer {
+    position: absolute;
+    width: 100%;
+    height: 70px;
+    bottom: 0;
+    background-color: #6c757d;
+    padding-top: 10px;
+
+}
+
+footer .row p {
+    background-color: #6c757d;
+    color: #aaa;
+    font-size: 0.9em;
+}
+
+
+span {
+    
+    font-style: italic;
+}
